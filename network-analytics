@@ -1,0 +1,14 @@
+The idea here is to develop a tool to predict the pattern of traffic based on the past traffic data.
+
+Method1:
+There is the moving average one. Where we move the window of prediction along the time axis. 
+
+Method2:
+ARMA. 
+
+Method3:
+ARIMA
+
+Method4:
+Juniper method?
+
